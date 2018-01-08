@@ -4,4 +4,5 @@ function addElementToBeginningOfArray(array, element){
   array.unshift
 }
 
-function destructivelyAdd
+function destructivelyAddElementToBeginningOfArray(array, element) {
+}
